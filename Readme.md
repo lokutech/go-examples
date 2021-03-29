@@ -1,1 +1,2 @@
-This is a repo for series of examples for GO lang. Each example has a branch.
+### Initialize module
+go mod init github.com/lokutech/go-examples/module_import_local
