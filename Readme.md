@@ -1,1 +1,1 @@
-This is a repo for series of examples for GO lang. Each example has a branch.
+This is a repo for series of examples for GO lang.
