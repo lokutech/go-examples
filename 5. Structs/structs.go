@@ -30,7 +30,7 @@ type Bird struct {
 }
 
 type Person struct {
-	Name string `required max:"100"`
+	Name string `required,Max:"100"`
 	Age  int
 }
 
